@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First GitHub project.
+I'm here to learn how to program better.
